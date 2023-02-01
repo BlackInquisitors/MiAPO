@@ -1,0 +1,4 @@
+/home/gr602_seban/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/home/gr602_seban/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gr602_seban/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gr602_seban/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled_autogen.dir
