@@ -1,3 +1,3 @@
 # MiAPO
 
-Hello, world! First Repository.
+Hello, world! First Repository
